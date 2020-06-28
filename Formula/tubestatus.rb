@@ -4,9 +4,9 @@
 class Tubestatus < Formula
   desc "London Tube live status from your terminal using the TFL API."
   homepage "https://github.com/smallwat3r/tubestatus"
-  url "https://github.com/smallwat3r/tubestatus/archive/1.1.tar.gz"
-  version "1.1"
-  sha256 "3baefe73fa3cd535fb2b68b0beb97269adda8ca688666b4f50060af5d0919210"
+  url "https://github.com/smallwat3r/tubestatus/archive/1.2.tar.gz"
+  version "1.2"
+  sha256 "5e2b250138135b5a0be2e45e651929643814ddbd4b7c41b21954d6861e43ed7e"
 
   depends_on "jq"
 
