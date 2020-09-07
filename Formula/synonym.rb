@@ -4,9 +4,9 @@
 class Synonym < Formula
   desc "Find synonyms in 15 different languages directly from your terminal."
   homepage "https://github.com/smallwat3r/synonym"
-  url "https://github.com/smallwat3r/synonym/archive/1.4.2.tar.gz"
-  version "1.4.2"
-  sha256 "dcf782e38d5a1891386c286f7d1216c118b7f8d0b8b72541b5013e3d7c68b1ea"
+  url "https://github.com/smallwat3r/synonym/archive/1.4.3.tar.gz"
+  version "1.4.3"
+  sha256 "14d49cb30616195a213d473422f6b72ab4f8cf04015126833756b587b5845e98"
 
   depends_on "jq"
 
