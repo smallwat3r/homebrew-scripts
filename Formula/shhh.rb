@@ -4,9 +4,9 @@
 class Shhh < Formula
   desc "GO cli client for Shhh"
   homepage "https://github.com/smallwat3r/shhh-cli"
-  url "https://github.com/smallwat3r/shhh-cli/releases/download/1.1.6/shhh-1.1.6-homebrew.tar.gz"
-  version "1.1.6"
-  sha256 "ac07dbe2e0f349efb46ef9559185afcf4358cc78970a53f882e5e0844d6acfb2"
+  url "https://github.com/smallwat3r/shhh-cli/releases/download/1.1.7/shhh-1.1.7-homebrew.tar.gz"
+  version "1.1.7"
+  sha256 "6659bad08b2ddcf6f31d3d5bf066b78b193c109aba6eb560ae80781f939d1399"
 
   def install
     bin.install "shhh"
