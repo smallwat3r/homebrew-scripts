@@ -1,6 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Tubestatus < Formula
   desc "London Tube live status from your terminal using the TFL API."
   homepage "https://github.com/smallwat3r/tubestatus"

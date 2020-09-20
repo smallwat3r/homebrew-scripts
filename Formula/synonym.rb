@@ -1,6 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Synonym < Formula
   desc "Find synonyms in 15 different languages directly from your terminal."
   homepage "https://github.com/smallwat3r/synonym"
