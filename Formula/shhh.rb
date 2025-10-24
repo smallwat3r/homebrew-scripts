@@ -16,7 +16,7 @@ class Shhh < Formula
   end
 
   def install
-    bin.install "shhh-darwin-#{Hardware::CPU.arch}" => "shhh"
+    bin.install "shhh_darwin_#{Hardware::CPU.arch}" => "shhh"
   end
 
   test do
